@@ -1,0 +1,4 @@
+samsung galaxy s8,telefon,400,2500,0.18
+iphone 8,apple telefon,500,3600,0.18
+mi mix 3,xiaomi telefon,523,1250,0.18
+huawei mate 20 pro,huawei telefon,469,4000,0.18
